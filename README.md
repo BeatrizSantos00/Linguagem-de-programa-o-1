@@ -1,8 +1,7 @@
-# Linguagem-de-programação 1
+# Linguagem de programação 1
 
-Este repositório é destinado à prática de programação em Java, com foco em exercícios de fixação e desafios oficiais da disciplina de Linguagem de Programação I.
+Este repositório é destinado à prática de programação em Java, com foco em exercícios de fixação e exercicios da disciplina de Linguagem de Programação I.
 
-Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
 Exercícios de Fixação:
